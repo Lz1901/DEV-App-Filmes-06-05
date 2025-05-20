@@ -26,6 +26,8 @@ export default function Home(){
 
           <FlatList
 
+            showsHorizontalScrollIndicator={false}
+
             horizontal={true}
 
             data={Filmes}
@@ -33,7 +35,7 @@ export default function Home(){
             keyExtractor={(item) => item.id}
             renderItem={({ item }) => (
 
-              <CardMovies titulo={item.nome} nota={item.nota} imagem={item.imagem} />
+              <CardMovies titulo={item.nome} nota={item.nota} imagem={item.imagem} sinopse={item.sinopse} />
 
             )}
 
