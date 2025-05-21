@@ -60,7 +60,7 @@ const DATA = [
         nome:'Jack Frost' ,
         nota:'10,0',
         imagem:'https://m.media-amazon.com/images/I/71fSqE6af2L._AC_UF1000,1000_QL80_.jpg',
-        resumo: 'Jack Frost é um cantor que viaja constantemente e nunca tem muito tempo para sua esposa, Gabby, e seu filho, Charlie. Um ano após a trágica morte de Jack, em um acidente de carro, no dia de Natal, Charlie toca uma música na gaita de seu pai. Para sua surpresa, Frost retorna como um boneco de neve. Charlie e Jack tentam recuperar o tempo perdido.'
+        sinopse: 'Jack Frost é um cantor que viaja constantemente e nunca tem muito tempo para sua esposa, Gabby, e seu filho, Charlie. Um ano após a trágica morte de Jack, em um acidente de carro, no dia de Natal, Charlie toca uma música na gaita de seu pai. Para sua surpresa, Frost retorna como um boneco de neve. Charlie e Jack tentam recuperar o tempo perdido.'
     },
 
     {
